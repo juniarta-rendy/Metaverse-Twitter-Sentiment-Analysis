@@ -1,5 +1,4 @@
 word,weight,number_of_words
-hai,3,1
 merekam,2,1
 ekstensif,3,1
 paripurna,1,1
@@ -11,6 +10,7 @@ kabung,1,1
 rahayu,4,1
 maaf,2,1
 hello,2,1
+kembangkan,1,1
 promo,3,1
 terimakasih,5,1
 cover,3,1
@@ -20,6 +20,7 @@ statistik,1,1
 keluangan,3,1
 jalan terbuka,3,2
 banyaknya,3,1
+keren,3,1
 lebar,3,1
 bentang,1,1
 hendaknya,1,1
@@ -968,6 +969,7 @@ tandang,1,1
 kestabilan,4,1
 mengontak,1,1
 memarkir,1,1
+menjanjikan,5,1
 arung,1,1
 cintai,4,1
 tayang,3,1
@@ -2252,7 +2254,6 @@ pulut,3,1
 terbangun,3,1
 jaya,4,1
 sintal,3,1
-lemah,5,1
 susah hati,3,2
 stupa,4,1
 lemas,5,1
@@ -3399,7 +3400,6 @@ berpaut,3,1
 tiruan,3,1
 sebab,3,1
 membimbit,3,1
-percuma,4,1
 gemar,5,1
 sput,4,1
 merakit,3,1
@@ -4253,7 +4253,7 @@ jail,-4,1
 lemot,-5,1
 sayangnya,-3,1
 menghukum,-3,1
-bukannya,-3,1
+bukannya,1,1
 disayang,-3,1
 memberi,-2,1
 membalas,-3,1
@@ -5925,6 +5925,7 @@ pemuda,-1,1
 larang,-3,1
 rangsang,-3,1
 tembok,-1,1
+ngewe,-5,1
 menang,-5,1
 baik,-1,1
 gadang,-4,1
@@ -8552,7 +8553,7 @@ mengharukan,-4,1
 lotre,-5,1
 tahu,-4,1
 amtenar,-3,1
-ketuat,-4,1
+apa,-4,1
 mengarik,-3,1
 dongkel,-3,1
 riuk,-3,1
@@ -9148,7 +9149,6 @@ beol,-5,1
 caruk,-4,1
 mencengkam,-4,1
 kenan,-3,1
-bagus,-4,1
 berbanding,-3,1
 carut,-5,1
 sipongang,-3,1
