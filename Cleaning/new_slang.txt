@@ -1,0 +1,1036 @@
+1. @:di
+2. abis:habis
+3. ad:ada
+4. adlh:adalah
+5. afaik:as far as i know
+6. ahaha:haha
+7. aj:saja
+8. ajep-ajep:dunia gemerlap
+9. ak:saya
+10. akika:aku
+11. akkoh:aku
+12. akuwh:aku
+13. alay:norak
+14. alow:halo
+15. ambilin:ambilkan
+16. ancur:hancur
+17. anjrit:anjing
+18. anter:antar
+19. ap2:apa-apa
+20. apasih:apa sih
+21. apes:sial
+22. aps:apa
+23. aq:saya
+24. aquwh:aku
+25. asbun:asal bunyi
+26. aseekk:asyik
+27. asekk:asyik
+28. asem:asam
+29. aspal:asli tetapi palsu
+30. astul:asal tulis
+31. ato:atau
+32. au ah:tidak mau tahu
+33. awak:saya
+34. ay:sayang
+35. ayank:sayang
+36. b4:sebelum
+37. bakalan:akan
+38. bandes:bantuan desa
+39. bangedh:banget
+40. banpol:bantuan polisi
+41. banpur:bantuan tempur
+42. basbang:basi
+43. bcanda:bercanda
+44. bdg:bandung
+45. begajulan:nakal
+46. beliin:belikan
+47. bencong:banci
+48. bentar:sebentar
+49. ber3:bertiga
+50. beresin:membereskan
+51. bete:bosan
+52. beud:banget
+53. bg:abang
+54. bgmn:bagaimana
+55. bgt:banget
+56. bijimane:bagaimana
+57. bintal:bimbingan mental
+58. bkl:akan
+59. bknnya:bukannya
+60. blegug:bodoh
+61. blh:boleh
+62. bln:bulan
+63. blum:belum
+64. bnci:benci
+65. bnran:yang benar
+66. bodor:lucu
+67. bokap:ayah
+68. boker:buang air besar
+69. bokis:bohong
+70. boljug:boleh juga
+71. bonek:bocah nekat
+72. boyeh:boleh
+73. br:baru
+74. brg:bareng
+75. bro:saudara laki-laki
+76. bru:baru
+77. bs:bisa
+78. bsen:bosan
+79. bt:buat
+80. btw:ngomong-ngomong
+81. buaya:tidak setia
+82. bubbu:tidur
+83. bubu:tidur
+84. bumil:ibu hamil
+85. bw:bawa
+86. bwt:buat
+87. byk:banyak
+88. byrin:bayarkan
+89. cabal:sabar
+90. cadas:keren
+91. calo:makelar
+92. can:belum
+93. capcus:pergi
+94. caper:cari perhatian
+95. ce:cewek
+96. cekal:cegah tangkal
+97. cemen:penakut
+98. cengengesan:tertawa
+99. cepet:cepat
+100. cew:cewek
+101. chuyunk:sayang
+102. cimeng:ganja
+103. cipika cipiki:cium pipi kanan cium pipi kiri
+104. ciyh:sih
+105. ckepp:cakep
+106. ckp:cakep
+107. cmiiw:correct me if i'm wrong
+108. cmpur:campur
+109. cong:banci
+110. conlok:cinta lokasi
+111. cowwyy:maaf
+112. cp:siapa
+113. cpe:capek
+114. cppe:capek
+115. cucok:cocok
+116. cuex:cuek
+117. cumi:Cuma miscall
+118. cups:culun
+119. curanmor:pencurian kendaraan bermotor
+120. curcol:curahan hati colongan
+121. cwek:cewek
+122. cyin:cinta
+123. d:di
+124. dah:deh
+125. dapet:dapat
+126. de:adik
+127. dek:adik
+128. demen:suka
+129. deyh:deh
+130. dgn:dengan
+131. diancurin:dihancurkan
+132. dimaafin:dimaafkan
+133. dimintak:diminta
+134. disono:di sana
+135. dket:dekat
+136. dkk:dan kawan-kawan
+137. dll:dan lain-lain
+138. dlu:dulu
+139. dngn:dengan
+140. dodol:bodoh
+141. doku:uang
+142. dongs:dong
+143. dpt:dapat
+144. dri:dari
+145. drmn:darimana
+146. drtd:dari tadi
+147. dst:dan seterusnya
+148. dtg:datang
+149. duh:aduh
+150. duren:durian
+151. ed:edisi
+152. egp:emang gue pikirin
+153. eke:aku
+154. elu:kamu
+155. emangnya:memangnya
+156. emng:memang
+157. endak:tidak
+158. ga:tidak
+159. gk:tidak
+160. g:tidak
+161. enggak:tidak
+162. envy:iri
+163. ex:mantan
+164. fax:facsimile
+165. fifo:first in first out
+166. folbek:follow back
+167. fyi:sebagai informasi
+168. gaada:tidak ada uang
+169. gag:tidak
+170. gaje:tidak jelas
+171. gak papa:tidak apa-apa
+172. gan:juragan
+173. gaptek:gagap teknologi
+174. gatek:gagap teknologi
+175. gawe:kerja
+176. gbs:tidak bisa
+177. gebetan:orang yang disuka
+178. geje:tidak jelas
+179. gepeng:gelandangan dan pengemis
+180. ghiy:lagi
+181. gile:gila
+182. gimana:bagaimana
+183. gino:gigi nongol
+184. githu:gitu
+185. gj:tidak jelas
+186. gmana:bagaimana
+187. gn:begini
+188. goblok:bodoh
+189. golput:golongan putih
+190. gowes:mengayuh sepeda
+191. gpny:tidak punya
+192. gr:gede rasa
+193. gretongan:gratisan
+194. gtau:tidak tahu
+195. gua:saya
+196. guoblok:goblok
+197. gw:saya
+198. ha:tertawa
+199. haha:tertawa
+200. hallow:halo
+201. hankam:pertahanan dan keamanan
+202. hehe:he
+203. helo:halo
+204. hey:hai
+205. hlm:halaman
+206. hny:hanya
+207. hoax:isu bohong
+208. hr:hari
+209. hrus:harus
+210. hubdar:perhubungan darat
+211. huff:mengeluh
+212. hum:rumah
+213. humz:rumah
+214. ilang:hilang
+215. ilfil:tidak suka
+216. imho:in my humble opinion
+217. imoetz:imut
+218. item:hitam
+219. itungan:hitungan
+220. iye:iya
+221. ja:saja
+222. jadiin:jadi
+223. jaim:jaga image
+224. jayus:tidak lucu
+225. jdi:jadi
+226. jem:jam
+227. jga:juga
+228. jgnkan:jangankan
+229. jir:anjing
+230. jln:jalan
+231. jomblo:tidak punya pacar
+232. jubir:juru bicara
+233. jutek:galak
+234. k:ke
+235. kab:kabupaten
+236. kabor:kabur
+237. kacrut:kacau
+238. kadiv:kepala divisi
+239. kagak:tidak
+240. kalo:kalau
+241. kampret:sialan
+242. kamtibmas:keamanan dan ketertiban masyarakat
+243. kamuwh:kamu
+244. kanwil:kantor wilayah
+245. karna:karena
+246. kasubbag:kepala subbagian
+247. katrok:kampungan
+248. kayanya:kayaknya
+249. kbr:kabar
+250. kdu:harus
+251. kec:kecamatan
+252. kejurnas:kejuaraan nasional
+253. kekeuh:keras kepala
+254. kel:kelurahan
+255. kemaren:kemarin
+256. kepengen:mau
+257. kepingin:mau
+258. kepsek:kepala sekolah
+259. kesbang:kesatuan bangsa
+260. kesra:kesejahteraan rakyat
+261. ketrima:diterima
+262. kgiatan:kegiatan
+263. kibul:bohong
+264. kimpoi:kawin
+265. kl:kalau
+266. klianz:kalian
+267. kloter:kelompok terbang
+268. klw:kalau
+269. km:kamu
+270. kmps:kampus
+271. kmrn:kemarin
+272. knal:kenal
+273. knp:kenapa
+274. kodya:kota madya
+275. komdis:komisi disiplin
+276. komsov:komunis sovyet
+277. kongkow:kumpul bareng teman-teman
+278. kopdar:kopi darat
+279. korup:korupsi
+280. kpn:kapan
+281. krenz:keren
+282. krm:kirim
+283. kt:kita
+284. ktmu:ketemu
+285. ktr:kantor
+286. kuper:kurang pergaulan
+287. kw:imitasi
+288. kyk:seperti
+289. la:lah
+290. lam:salam
+291. lamp:lampiran
+292. lanud:landasan udara
+293. latgab:latihan gabungan
+294. lebay:berlebihan
+295. leh:boleh
+296. lelet:lambat
+297. lemot:lambat
+298. lgi:lagi
+299. lgsg:langsung
+300. liat:lihat
+301. litbang:penelitian dan pengembangan
+302. lmyn:lumayan
+303. lo:kamu
+304. loe:kamu
+305. lola:lambat berfikir
+306. louph:cinta
+307. low:kalau
+308. lp:lupa
+309. luber:langsung, umum, bebas, dan rahasia
+310. luchuw:lucu
+311. lum:belum
+312. luthu:lucu
+313. lwn:lawan
+314. maacih:terima kasih
+315. mabal:bolos
+316. macem:macam
+317. macih:masih
+318. maem:makan
+319. magabut:makan gaji buta
+320. maho:homo
+321. mak jang:kaget
+322. maksain:memaksa
+323. malem:malam
+324. mam:makan
+325. maneh:kamu
+326. maniez:manis
+327. mao:mau
+328. masukin:masukkan
+329. melu:ikut
+330. mepet:dekat sekali
+331. mgu:minggu
+332. migas:minyak dan gas bumi
+333. mikol:minuman beralkohol
+334. miras:minuman keras
+335. mlah:malah
+336. mngkn:mungkin
+337. mo:mau
+338. mokad:mati
+339. moso:masa
+340. mpe:sampai
+341. msk:masuk
+342. mslh:masalah
+343. mt:makan teman
+344. mubes:musyawarah besar
+345. mulu:melulu
+346. mumpung:selagi
+347. munas:musyawarah nasional
+348. muntaber:muntah dan berak
+349. musti:mesti
+350. muupz:maaf
+351. mw:now watching
+352. n:dan
+353. nanam:menanam
+354. nanya:bertanya
+355. napa:kenapa
+356. napi:narapidana
+357. napza:narkotika, alkohol, psikotropika, dan zat adiktif 
+358. narkoba:narkotika, psikotropika, dan obat terlarang
+359. nasgor:nasi goreng
+360. nda:tidak
+361. ndiri:sendiri
+362. ne:ini
+363. nekolin:neokolonialisme
+364. nembak:menyatakan cinta
+365. ngabuburit:menunggu berbuka puasa
+366. ngaku:mengaku
+367. ngambil:mengambil
+368. nganggur:tidak punya pekerjaan
+369. ngapah:kenapa
+370. ngaret:terlambat
+371. ngasih:memberikan
+372. ngebandel:berbuat bandel
+373. ngegosip:bergosip
+374. ngeklaim:mengklaim
+375. ngeksis:menjadi eksis
+376. ngeles:berkilah
+377. ngelidur:menggigau
+378. ngerampok:merampok
+379. ngga:tidak
+380. ngibul:berbohong
+381. ngiler:mau
+382. ngiri:iri
+383. ngisiin:mengisikan
+384. ngmng:bicara
+385. ngomong:bicara
+386. ngubek2:mencari-cari
+387. ngurus:mengurus
+388. nie:ini
+389. nih:ini
+390. niyh:nih
+391. nmr:nomor
+392. nntn:nonton
+393. nobar:nonton bareng
+394. np:now playing
+395. ntar:nanti
+396. ntn:nonton
+397. numpuk:bertumpuk
+398. nutupin:menutupi
+399. nyari:mencari
+400. nyekar:menyekar
+401. nyicil:mencicil
+402. nyoblos:mencoblos
+403. nyokap:ibu
+404. ogah:tidak mau
+405. ol:online
+406. ongkir:ongkos kirim
+407. oot:out of topic
+408. org2:orang-orang
+409. ortu:orang tua
+410. otda:otonomi daerah
+411. otw:on the way, sedang di jalan
+412. pacal:pacar
+413. pake:pakai
+414. pala:kepala
+415. pansus:panitia khusus
+416. parpol:partai politik
+417. pasutri:pasangan suami istri
+418. pd:pada
+419. pede:percaya diri
+420. pelatnas:pemusatan latihan nasional
+421. pemda:pemerintah daerah
+422. pemkot:pemerintah kota
+423. pemred:pemimpin redaksi
+424. penjas:pendidikan jasmani
+425. perda:peraturan daerah
+426. perhatiin:perhatikan
+427. pesenan:pesanan
+428. pgang:pegang
+429. pi:tapi
+430. pilkada:pemilihan kepala daerah
+431. pisan:sangat
+432. pk:penjahat kelamin
+433. plg:paling
+434. pmrnth:pemerintah
+435. polantas:polisi lalu lintas
+436. ponpes:pondok pesantren
+437. pp:pulang pergi
+438. prg:pergi
+439. prnh:pernah
+440. psen:pesan
+441. pst:pasti
+442. pswt:pesawat
+443. pw:posisi nyaman
+444. qmu:kamu
+445. rakor:rapat koordinasi
+446. ranmor:kendaraan bermotor
+447. re:reply
+448. ref:referensi
+449. rehab:rehabilitasi
+450. rempong:sulit
+451. repp:balas
+452. restik:reserse narkotika
+453. rhs:rahasia
+454. rmh:rumah
+455. ru:baru
+456. ruko:rumah toko
+457. rusunawa:rumah susun sewa
+458. ruz:terus
+459. saia:saya
+460. salting:salah tingkah
+461. sampe:sampai
+462. samsek:sama sekali
+463. sapose:siapa
+464. satpam:satuan pengamanan
+465. sbb:sebagai berikut
+466. sbh:sebuah
+467. sbnrny:sebenarnya
+468. scr:secara
+469. sdgkn:sedangkan
+470. sdkt:sedikit
+471. se7:setuju
+472. sebelas dua belas:mirip
+473. sembako:sembilan bahan pokok
+474. sempet:sempat
+475. sendratari:seni drama tari
+476. sgt:sangat
+477. shg:sehingga
+478. siech:sih
+479. sikon:situasi dan kondisi
+480. sinetron:sinema elektronik
+481. siramin:siramkan
+482. sj:saja
+483. skalian:sekalian
+484. sklh:sekolah
+485. skt:sakit
+486. slesai:selesai
+487. sll:selalu
+488. slma:selama
+489. slsai:selesai
+490. smpt:sempat
+491. smw:semua
+492. sndiri:sendiri
+493. soljum:sholat jumat
+494. songong:sombong
+495. sory:maaf
+496. sosek:sosial-ekonomi
+497. sotoy:sok tahu
+498. spa:siapa
+499. sppa:siapa
+500. spt:seperti
+501. srtfkt:sertifikat
+502. stiap:setiap
+503. stlh:setelah
+504. suk:masuk
+505. sumpek:sempit
+506. syg:sayang
+507. t4:tempat
+508. tajir:kaya
+509. tau:tahu
+510. taw:tahu
+511. td:tadi
+512. tdk:tidak
+513. teh:kakak perempuan
+514. telat:terlambat
+515. telmi:telat berpikir
+516. temen:teman
+517. tengil:menyebalkan
+518. tepar:terkapar
+519. tggu:tunggu
+520. tgu:tunggu
+521. thankz:terima kasih
+522. thn:tahun
+523. tilang:bukti pelanggaran
+524. tipiwan:TvOne
+525. tks:terima kasih
+526. tlp:telepon
+527. tls:tulis
+528. tmbah:tambah
+529. tmen2:teman-teman
+530. tmpah:tumpah
+531. tmpt:tempat
+532. tngu:tunggu
+533. tnyta:ternyata
+534. tokai:tai
+535. toserba:toko serba ada
+536. tpi:tapi
+537. trdhulu:terdahulu
+538. trima:terima kasih
+539. trm:terima
+540. trs:terus
+541. trutama:terutama
+542. ts:penulis
+543. tst:tahu sama tahu
+544. ttg:tentang
+545. tuch:tuh
+546. tuir:tua
+547. tw:tahu
+548. u:kamu
+549. ud:sudah
+550. udah:sudah
+551. ujg:ujung
+552. ul:ulangan
+553. unyu:lucu
+554. uplot:unggah
+555. urang:saya
+556. usah:perlu
+557. utk:untuk
+558. valas:valuta asing
+559. w/:dengan
+560. wadir:wakil direktur
+561. wamil:wajib militer
+562. warkop:warung kopi
+563. warteg:warung tegal
+564. wat:buat
+565. wkt:waktu
+566. wtf:what the fuck
+567. xixixi:tertawa
+568. ya:iya
+569. yap:iya
+570. yaudah:ya sudah
+571. yawdah:ya sudah
+572. yg:yang
+573. yl:yang lain
+574. yo:iya
+575. yowes:ya sudah
+576. yup:iya
+577. 7an:tujuan
+578. ababil:abg labil
+579. acc:accord
+580. adlah:adalah
+581. adoh:aduh
+582. aha:tertawa
+583. aing:saya
+584. aja:saja
+585. ajj:saja
+586. aka:dikenal juga sebagai
+587. akko:aku
+588. akku:aku
+589. akyu:aku
+590. aljasa:asal jadi saja
+591. ama:sama
+592. ambl:ambil
+593. anjir:anjing
+594. ank:anak
+595. ap:apa
+596. apaan:apa
+597. ape:apa
+598. aplot:unggah
+599. apva:apa
+600. aqu:aku
+601. asap:sesegera mungkin
+602. aseek:asyik
+603. asek:asyik
+604. aseknya:asyiknya
+605. asoy:asyik
+606. astrojim:astagfirullahaladzim
+607. ath:kalau begitu
+608. atuh:kalau begitu
+609. ava:avatar
+610. aws:awas
+611. ayang:sayang
+612. ayok:ayo
+613. bacot:banyak bicara
+614. bales:balas
+615. bangdes:pembangunan desa
+616. bangkotan:tua
+617. banpres:bantuan presiden
+618. bansarkas:bantuan sarana kesehatan
+619. bazis:badan amal, zakat, infak, dan sedekah
+620. bcoz:karena
+621. beb:sayang
+622. bejibun:banyak
+623. belom:belum
+624. bener:benar
+625. ber2:berdua
+626. berdikari:berdiri di atas kaki sendiri
+627. bet:banget
+628. beti:beda tipis
+629. beut:banget
+630. bgd:banget
+631. bgs:bagus
+632. bhubu:tidur
+633. bimbuluh:bimbingan dan penyuluhan
+634. bisi:kalau-kalau
+635. bkn:bukan
+636. bl:beli
+637. blg:bilang
+638. blm:belum
+639. bls:balas
+640. bnchi:benci
+641. bngung:bingung
+642. bnyk:banyak
+643. bohay:badan aduhai
+644. bokep:porno
+645. bokin:pacar
+646. bole:boleh
+647. bolot:bodoh
+648. bonyok:ayah ibu
+649. bpk:bapak
+650. brb:segera kembali
+651. brngkt:berangkat
+652. brp:berapa
+653. brur:saudara laki-laki
+654. bsa:bisa
+655. bsk:besok
+656. bu_bu:tidur
+657. bubarin:bubarkan
+658. buber:buka bersama
+659. bujubune:luar biasa
+660. buser:buru sergap
+661. bwhn:bawahan
+662. byar:bayar
+663. byr:bayar
+664. c8:chat
+665. cabut:pergi
+666. caem:cakep
+667. cama-cama:sama-sama
+668. cangcut:celana dalam
+669. cape:capek
+670. caur:jelek
+671. cekak:tidak ada uang
+672. cekidot:coba lihat
+673. cemplungin:cemplungkan
+674. ceper:pendek
+675. ceu:kakak perempuan
+676. cewe:cewek
+677. cibuk:sibuk
+678. cin:cinta
+679. ciye:cie
+680. ckck:ck
+681. clbk:cinta lama bersemi kembali
+682. cmpr:campur
+683. cnenk:senang
+684. congor:mulut
+685. cow:cowok
+686. coz:karena
+687. cpa:siapa
+688. gokil:gila
+689. gombal:suka merayu
+690. gpl:tidak pakai lama
+691. gpp:tidak apa-apa
+692. gretong:gratis
+693. gt:begitu
+694. gtw:tidak tahu
+695. gue:saya
+696. guys:teman-teman
+697. gws:cepat sembuh
+698. haghaghag:tertawa
+699. hakhak:tertawa
+700. handak:bahan peledak
+701. hansip:pertahanan sipil
+702. hellow:halo
+703. helow:halo
+704. hi:hai
+705. hlng:hilang
+706. hnya:hanya
+707. houm:rumah
+708. hrs:harus
+709. hubad:hubungan angkatan darat
+710. hubla:perhubungan laut
+711. huft:mengeluh
+712. humas:hubungan masyarakat
+713. idk:saya tidak tahu
+714. ilfeel:tidak suka
+715. imba:jago sekali
+716. imoet:imut
+717. info:informasi
+718. itung:hitung
+719. isengin:bercanda
+720. iyala:iya lah
+721. iyo:iya
+722. jablay:jarang dibelai
+723. jadul:jaman dulu
+724. jancuk:anjing
+725. jd:jadi
+726. jdikan:jadikan
+727. jg:juga
+728. jgn:jangan
+729. jijay:jijik
+730. jkt:jakarta
+731. jnj:janji
+732. jth:jatuh
+733. jurdil:jujur adil
+734. jwb:jawab
+735. ka:kakak
+736. kabag:kepala bagian
+737. kacian:kasihan
+738. kadit:kepala direktorat
+739. kaga:tidak
+740. kaka:kakak
+741. kamtib:keamanan dan ketertiban
+742. kamuh:kamu
+743. kamyu:kamu
+744. kapt:kapten
+745. kasat:kepala satuan
+746. kasubbid:kepala subbidang
+747. kau:kamu
+748. kbar:kabar
+749. kcian:kasihan
+750. keburu:terlanjur
+751. kedubes:kedutaan besar
+752. kek:seperti
+753. keknya:kayaknya
+754. keliatan:kelihatan
+755. keneh:masih
+756. kepikiran:terpikirkan
+757. kepo:mau tahu urusan orang
+758. kere:tidak punya uang
+759. kesian:kasihan
+760. ketauan:ketahuan
+761. keukeuh:keras kepala
+762. khan:kan
+763. kibus:kaki busuk
+764. kk:kartu keluarga
+765. klian:kalian
+766. klo:kalau
+767. kluarga:keluarga
+768. klwrga:keluarga
+769. kmari:kemari
+770. kmpus:kampus
+771. kn:kan
+772. knl:kenal
+773. knpa:kenapa
+774. kog:kok
+775. kompi:komputer
+776. komtiong:komunis Tiongkok
+777. konjen:konsulat jenderal
+778. koq:kok
+779. kpd:kepada
+780. kptsan:keputusan
+781. krik:garing
+782. krn:karena
+783. ktauan:ketahuan
+784. ktny:katanya
+785. kudu:harus
+786. kuq:kok
+787. ky:seperti
+788. kykny:kayanya
+789. laka:kecelakaan
+790. lambreta:lambat
+791. lansia:lanjut usia
+792. lapas:lembaga pemasyarakatan
+793. lbur:libur
+794. lekong:laki-laki
+795. lg:lagi
+796. lgkp:lengkap
+797. lht:lihat
+798. linmas:perlindungan masyarakat
+799. lmyan:lumayan
+800. lngkp:lengkap
+801. loch:loh
+802. lol:tertawa
+803. lom:belum
+804. loupz:cinta
+805. lowh:kamu
+806. lu:kamu
+807. luchu:lucu
+808. luff:cinta
+809. luph:cinta
+810. lw:kamu
+811. lwt:lewat
+812. maaciw:terima kasih
+813. mabes:markas besar
+814. macem-macem:macam-macam
+815. madesu:masa depan suram
+816. maen:main
+817. mahatma:maju sehat bersama
+818. mak:ibu
+819. makasih:terima kasih
+820. malah:bahkan
+821. malu2in:memalukan
+822. mamz:makan
+823. manies:manis
+824. mantep:mantap
+825. markus:makelar kasus
+826. mba:mbak
+827. mending:lebih baik
+828. mgkn:mungkin
+829. mhn:mohon
+830. miker:minuman keras
+831. milis:mailing list
+832. mksd:maksud
+833. mls:malas
+834. mnt:minta
+835. moge:motor gede
+836. mokat:mati
+837. mosok:masa
+838. msh:masih
+839. mskpn:meskipun
+840. msng2:masing-masing
+841. muahal:mahal
+842. muker:musyawarah kerja
+843. mumet:pusing
+844. muna:munafik
+845. munaslub:musyawarah nasional luar biasa
+846. musda:musyawarah daerah
+847. muup:maaf
+848. muuv:maaf
+849. nal:kenal
+850. nangis:menangis
+851. naon:apa
+852. napol:narapidana politik
+853. naq:anak
+854. narsis:bangga pada diri sendiri
+855. nax:anak
+856. ndak:tidak
+857. ndut:gendut
+858. nekolim:neokolonialisme
+859. nelfon:menelepon
+860. ngabis2in:menghabiskan
+861. ngakak:tertawa
+862. ngambek:marah
+863. ngampus:pergi ke kampus
+864. ngantri:mengantri
+865. ngapain:sedang apa
+866. ngaruh:berpengaruh
+867. ngawur:berbicara sembarangan
+868. ngeceng:kumpul bareng-bareng
+869. ngeh:sadar
+870. ngekos:tinggal di kos
+871. ngelamar:melamar
+872. ngeliat:melihat
+873. ngemeng:bicara terus-terusan
+874. ngerti:mengerti
+875. nggak:tidak
+876. ngikut:ikut
+877. nginep:menginap
+878. ngisi:mengisi
+879. ngmg:bicara
+880. ngocol:lucu
+881. ngomongin:membicarakan
+882. ngumpul:berkumpul
+883. ni:ini
+884. nyasar:tersesat
+885. nyariin:mencari
+886. nyiapin:mempersiapkan
+887. nyiram:menyiram
+888. nyok:ayo
+889. o/:oleh
+890. ok:ok
+891. priksa:periksa
+892. pro:profesional
+893. psn:pesan
+894. psti:pasti
+895. puanas:panas
+896. qmo:kamu
+897. qt:kita
+898. rame:ramai
+899. raskin:rakyat miskin
+900. red:redaksi
+901. reg:register
+902. rejeki:rezeki
+903. renstra:rencana strategis
+904. reskrim:reserse kriminal
+905. sni:sini
+906. somse:sombong sekali
+907. sorry:maaf
+908. sosbud:sosial-budaya
+909. sospol:sosial-politik
+910. sowry:maaf
+911. spd:sepeda
+912. sprti:seperti
+913. spy:supaya
+914. stelah:setelah
+915. subbag:subbagian
+916. sumbangin:sumbangkan
+917. sy:saya
+918. syp:siapa
+919. tabanas:tabungan pembangunan nasional
+920. tar:nanti
+921. taun:tahun
+922. tawh:tahu
+923. tdi:tadi
+924. te2p:tetap
+925. tekor:rugi
+926. telkom:telekomunikasi
+927. telp:telepon
+928. temen2:teman-teman
+929. tengok:menjenguk
+930. terbitin:terbitkan
+931. tgl:tanggal
+932. thanks:terima kasih
+933. thd:terhadap
+934. thx:terima kasih
+935. tipi:TV
+936. tkg:tukang
+937. tll:terlalu
+938. tlpn:telepon
+939. tman:teman
+940. tmbh:tambah
+941. tmn2:teman-teman
+942. tmph:tumpah
+943. tnda:tanda
+944. tnh:tanah
+945. togel:toto gelap
+946. tp:tapi
+947. tq:terima kasih
+948. trgntg:tergantung
+949. trims:terima kasih
+950. cb:coba
+951. y:ya
+952. munfik:munafik
+953. reklamuk:reklamasi
+954. sma:sama
+955. tren:trend
+956. ngehe:kesal
+957. mz:mas
+958. analisise:analisis
+959. sadaar:sadar
+960. sept:september
+961. nmenarik:menarik
+962. zonk:bodoh
+963. rights:benar
+964. simiskin:miskin
+965. ngumpet:sembunyi
+966. hardcore:keras
+967. akhirx:akhirnya
+968. solve:solusi
+969. watuk:batuk
+970. ngebully:intimidasi
+971. masy:masyarakat
+972. still:masih
+973. tauk:tahu
+974. mbual:bual
+975. tioghoa:tionghoa
+976. ngentotin:senggama
+977. kentot:senggama
+978. faktakta:fakta
+979. sohib:teman
+980. rubahnn:rubah
+981. trlalu:terlalu
+982. nyela:cela
+983. heters:pembenci
+984. nyembah:sembah
+985. most:paling
+986. ikon:lambang
+987. light:terang
+988. pndukung:pendukung
+989. setting:atur
+990. seting:akting
+991. next:lanjut
+992. waspadalah:waspada
+993. gantengsaya:ganteng
+994. parte:partai
+995. nyerang:serang
+996. nipu:tipu
+997. ktipu:tipu
+998. jentelmen:berani
+999. buangbuang:buang
+1000. tsangka:tersangka
+1001. kurng:kurang
+1002. ista:nista
+1003. less:kurang
+1004. koar:teriak
+1005. paranoid:takut
+1006. problem:masalah
+1007. tahi:kotoran
+1008. tirani:tiran
+1009. tilep:tilap
+1010. happy:bahagia
+1011. tak:tidak
+1012. penertiban:tertib
+1013. uasai:kuasa
+1014. mnolak:tolak
+1015. trending:trend
+1016. taik:tahi
+1017. wkwkkw:tertawa
+1018. ahokncc:ahok
+1019. istaa:nista
+1020. benarjujur:jujur
+1021. mgkin:mungkin
+1022. gak:tidak
+1023. trus:lalu
+1024. dlm:dalam
+1025. tetep:tetap
+1026. skrg:sekarang
+1027. sm:dengan
+1028. udh:sudah
+1029. cm:cuma
+1030. org:orang
+1031. bangor:nakal
+1032. ngamuk:mengamuk
+1033. iso:bisa
+1034. mbuh:tidak tahu
+1035. kzl:kesal
+1036. name:nama
