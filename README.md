@@ -66,25 +66,28 @@ We have visualized the model's performance with the following graphs:
 1. **Model Accuracy Graph:** This graph shows how the accuracy of the model evolved during training, helping to understand its learning process.
 2. **Model Loss Graph:** This graph illustrates the model's loss (error) during training. A decreasing loss indicates improved model performance.
 
-![Model Evaluation Graphs](./Result/model_evaluation.png)
+<img src="./Result/model_evaluation.png" alt="A Sample Image" width="550px">
+
 
 ### Confusion Matrix
 
 The confusion matrix provides a detailed breakdown of the model's predictions, showing the number of true positives, true negatives, false positives, and false negatives. It helps assess the model's performance across different sentiment classes.
 
-![Confusion Matrix](./Result/Confusion_Matrix_LSTM.png)
+<img src="./Result/Confusion_Matrix_LSTM.png" alt="A Sample Image" width="700px">
+
 
 ### Sentiment Distribution
 
 I've visualized the distribution of sentiment classes in the dataset with a bar chart. This chart shows the number of tweets classified as positive, negative, and neutral, providing insights into the overall sentiment distribution.
 
-![Sentiment Distribution](./Result/sentiment_distribution.png)
+<img src="./Result/sentiment_distribution.png" alt="A Sample Image" width="700px">
+
 
 ### Geographic Distribution
 
 To gain geographical insights into tweet distribution, I've created a map of Indonesia displaying the distribution of tweets in each province. This visualization can help identify regions with varying levels of engagement or sentiment.
 
-![Geographic Distribution](./Result/indonesia_map.png)
+<img src="./Result/indonesia_map.png" alt="A Sample Image" width="700px">
 
 These visualizations and metrics offer a comprehensive understanding of the sentiment analysis model's performance and the characteristics of the Metaverse-related tweets in our dataset.
 
